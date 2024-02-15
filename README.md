@@ -1,4 +1,4 @@
 # demoRepository2
-It is a second demo repository
+It is a demo repository
 <br>
-Auton-Himanshi
+Autor-Himanshi
